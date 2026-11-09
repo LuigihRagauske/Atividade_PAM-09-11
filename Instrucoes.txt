@@ -1,0 +1,10 @@
+Avaliação prática
+
+- Em dupla
+
+- Consulta apenas aos materiais da disciplina
+
+- Seguir instruções no PDF na pasta da aula
+
+- Se alguém estiver com projeto desatualizado, versão na pasta da aula - Aula 09 - Copiar para sua pasta Local. Se optar por copiar, ao abrir, compile para confirmar que está funcional antes de prosseguir
+

@@ -1,0 +1,5 @@
+Aula 12 - Envio de Atividade Mapas/Geolocalização
+
+Atividade Teams - Testes referente atividades 10 e 11
+
+- Tools --> Android --> Android Device Manager -> Play emulador
