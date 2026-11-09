@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\AppLibertadoresHAS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{06E10984-1721-99D1-9F1F-5323243389B4}|AppLibertadoresHAS\\AppLibertadoresHAS.csproj|d:\\applibertadoreshas\\applibertadoreshas\\viewmodels\\usuarioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E10984-1721-99D1-9F1F-5323243389B4}|AppLibertadoresHAS\\AppLibertadoresHAS.csproj|solutionrelative:applibertadoreshas\\viewmodels\\usuarioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{06E10984-1721-99D1-9F1F-5323243389B4}|AppLibertadoresHAS\\AppLibertadoresHAS.csproj|d:\\applibertadoreshas\\applibertadoreshas\\views\\jogadoresv\\listagemjogadorview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{06E10984-1721-99D1-9F1F-5323243389B4}|AppLibertadoresHAS\\AppLibertadoresHAS.csproj|solutionrelative:applibertadoreshas\\views\\jogadoresv\\listagemjogadorview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -29,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{06E10984-1721-99D1-9F1F-5323243389B4}|AppLibertadoresHAS\\AppLibertadoresHAS.csproj|d:\\applibertadoreshas\\applibertadoreshas\\views\\partidas\\tabelaview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{06E10984-1721-99D1-9F1F-5323243389B4}|AppLibertadoresHAS\\AppLibertadoresHAS.csproj|solutionrelative:applibertadoreshas\\views\\partidas\\tabelaview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06E10984-1721-99D1-9F1F-5323243389B4}|AppLibertadoresHAS\\AppLibertadoresHAS.csproj|d:\\applibertadoreshas\\applibertadoreshas\\viewmodels\\usuarioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06E10984-1721-99D1-9F1F-5323243389B4}|AppLibertadoresHAS\\AppLibertadoresHAS.csproj|solutionrelative:applibertadoreshas\\viewmodels\\usuarioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{06E10984-1721-99D1-9F1F-5323243389B4}|AppLibertadoresHAS\\AppLibertadoresHAS.csproj|d:\\applibertadoreshas\\applibertadoreshas\\services\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,37 +62,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ListagemJogadorView.xaml.cs",
-              "DocumentMoniker": "D:\\AppLibertadoresHAS\\AppLibertadoresHAS\\Views\\JogadoresV\\ListagemJogadorView.xaml.cs",
-              "RelativeDocumentMoniker": "AppLibertadoresHAS\\Views\\JogadoresV\\ListagemJogadorView.xaml.cs",
-              "ToolTip": "D:\\AppLibertadoresHAS\\AppLibertadoresHAS\\Views\\JogadoresV\\ListagemJogadorView.xaml.cs",
-              "RelativeToolTip": "AppLibertadoresHAS\\Views\\JogadoresV\\ListagemJogadorView.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T11:58:00.599Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ListagemJogadorView.xaml",
               "DocumentMoniker": "D:\\AppLibertadoresHAS\\AppLibertadoresHAS\\Views\\JogadoresV\\ListagemJogadorView.xaml",
               "RelativeDocumentMoniker": "AppLibertadoresHAS\\Views\\JogadoresV\\ListagemJogadorView.xaml",
               "ToolTip": "D:\\AppLibertadoresHAS\\AppLibertadoresHAS\\Views\\JogadoresV\\ListagemJogadorView.xaml",
               "RelativeToolTip": "AppLibertadoresHAS\\Views\\JogadoresV\\ListagemJogadorView.xaml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-09-28T11:57:51.532Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "AppShell.xaml.cs",
               "DocumentMoniker": "D:\\AppLibertadoresHAS\\AppLibertadoresHAS\\AppShell.xaml.cs",
               "RelativeDocumentMoniker": "AppLibertadoresHAS\\AppShell.xaml.cs",
@@ -100,12 +91,11 @@
               "RelativeToolTip": "AppLibertadoresHAS\\AppShell.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T11:52:01.714Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-28T11:52:01.714Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "AppShell.xaml",
               "DocumentMoniker": "D:\\AppLibertadoresHAS\\AppLibertadoresHAS\\AppShell.xaml",
               "RelativeDocumentMoniker": "AppLibertadoresHAS\\AppShell.xaml",
@@ -113,12 +103,36 @@
               "RelativeToolTip": "AppLibertadoresHAS\\AppShell.xaml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-09-28T11:33:55.027Z",
+              "WhenOpened": "2026-09-28T11:33:55.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioViewModel.cs",
+              "DocumentMoniker": "D:\\AppLibertadoresHAS\\AppLibertadoresHAS\\ViewModels\\UsuarioViewModel.cs",
+              "RelativeDocumentMoniker": "AppLibertadoresHAS\\ViewModels\\UsuarioViewModel.cs",
+              "ToolTip": "D:\\AppLibertadoresHAS\\AppLibertadoresHAS\\ViewModels\\UsuarioViewModel.cs",
+              "RelativeToolTip": "AppLibertadoresHAS\\ViewModels\\UsuarioViewModel.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAUwF4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T11:07:22.96Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ListagemJogadorView.xaml.cs",
+              "DocumentMoniker": "D:\\AppLibertadoresHAS\\AppLibertadoresHAS\\Views\\JogadoresV\\ListagemJogadorView.xaml.cs",
+              "RelativeDocumentMoniker": "AppLibertadoresHAS\\Views\\JogadoresV\\ListagemJogadorView.xaml.cs",
+              "ToolTip": "D:\\AppLibertadoresHAS\\AppLibertadoresHAS\\Views\\JogadoresV\\ListagemJogadorView.xaml.cs",
+              "RelativeToolTip": "AppLibertadoresHAS\\Views\\JogadoresV\\ListagemJogadorView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T11:58:00.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ListagemJogadorViewModel.cs",
               "DocumentMoniker": "D:\\AppLibertadoresHAS\\AppLibertadoresHAS\\ViewModels\\ListagemJogadorViewModel.cs",
               "RelativeDocumentMoniker": "AppLibertadoresHAS\\ViewModels\\ListagemJogadorViewModel.cs",
@@ -126,12 +140,11 @@
               "RelativeToolTip": "AppLibertadoresHAS\\ViewModels\\ListagemJogadorViewModel.cs",
               "ViewState": "AgIAABEAAAAAAAAAAADwvxkAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T11:00:20.09Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-28T11:00:20.09Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "TabelaView.xaml.cs",
               "DocumentMoniker": "D:\\AppLibertadoresHAS\\AppLibertadoresHAS\\Views\\Partidas\\TabelaView.xaml.cs",
               "RelativeDocumentMoniker": "AppLibertadoresHAS\\Views\\Partidas\\TabelaView.xaml.cs",
@@ -139,12 +152,11 @@
               "RelativeToolTip": "AppLibertadoresHAS\\Views\\Partidas\\TabelaView.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T11:48:50.758Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-28T11:48:50.758Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "TabelaView.xaml",
               "DocumentMoniker": "D:\\AppLibertadoresHAS\\AppLibertadoresHAS\\Views\\Partidas\\TabelaView.xaml",
               "RelativeDocumentMoniker": "AppLibertadoresHAS\\Views\\Partidas\\TabelaView.xaml",
@@ -152,20 +164,7 @@
               "RelativeToolTip": "AppLibertadoresHAS\\Views\\Partidas\\TabelaView.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-09-28T11:48:47.79Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UsuarioViewModel.cs",
-              "DocumentMoniker": "D:\\AppLibertadoresHAS\\AppLibertadoresHAS\\ViewModels\\UsuarioViewModel.cs",
-              "RelativeDocumentMoniker": "AppLibertadoresHAS\\ViewModels\\UsuarioViewModel.cs",
-              "ToolTip": "D:\\AppLibertadoresHAS\\AppLibertadoresHAS\\ViewModels\\UsuarioViewModel.cs",
-              "RelativeToolTip": "AppLibertadoresHAS\\ViewModels\\UsuarioViewModel.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAAArwF4AAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T11:07:22.96Z"
+              "WhenOpened": "2026-09-28T11:48:47.79Z"
             },
             {
               "$type": "Document",

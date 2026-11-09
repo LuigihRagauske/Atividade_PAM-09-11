@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppLibertadoresHAS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+50c1d0e4de6280b85f6a8c0271873b3ba33bdf55")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+4ec965a6e2f7de1b4d846c993cda016c7d55f31f")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppLibertadoresHAS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppLibertadoresHAS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
